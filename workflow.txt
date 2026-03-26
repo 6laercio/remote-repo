@@ -1,2 +1,3 @@
 Git Workflow Documentation
 1. Local development
+2. Remote collaboration
